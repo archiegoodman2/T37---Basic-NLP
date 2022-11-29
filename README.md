@@ -2,12 +2,12 @@
 
 Notes: All (good) ReadMe's should have:
 
-Project Name
-short description including purpose
-Table of contents
-Short installation guide
-Short usage guide
-Section for credits etc
+1.Project Name
+2.short description including purpose
+3.Table of contents
+4.Short installation guide
+5.Short usage guide
+6.Section for credits etc
 
 ==============================={ READ ME }===============================
 
